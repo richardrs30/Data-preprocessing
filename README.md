@@ -13,6 +13,6 @@
 ➡️ Download the file and run it in google collaboratory.
   
 ## You can see the tutorial on medium:
-Ⓜ️ [Medium](https://medium.com/@richardrs30/developing-a-data-application-on-a-local-server-with-the-shimoku-sdk-9de0a13656ca)
+Ⓜ️ [Medium](https://medium.com/@richardrs30/preparaci%C3%B3n-de-datos-para-la-anal%C3%ADtica-1dc387654b0b)
 
  
