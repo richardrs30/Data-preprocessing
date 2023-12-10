@@ -13,6 +13,6 @@
 ➡️ Download the file and run it in google collaboratory.
   
 ## You can see the tutorial on medium:
-Ⓜ️ [Medium](https://medium.com/@richardrs30/preparaci%C3%B3n-de-datos-para-la-anal%C3%ADtica-1dc387654b0b)
+Ⓜ️ [Medium](https://medium.com/@richardrs30/proyecto-de-preprocesamiento-de-datos-en-python-para-la-anal%C3%ADtica-09994ce146dd)
 
  
